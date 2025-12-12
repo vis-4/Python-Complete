@@ -4,7 +4,7 @@
 I recently completed the Python course at NxtWave and earned my certification.  
 To strengthen my concepts, I solved numerous Python problems across various platforms.  
 
-Since uploading all solutions as files isn’t practical, I’ve compiled all my practice problem links here in this repository.
+Since uploading all solutions as files isn’t practical, I’ve compiled some of which I personally felt were challenging, and my practice problem links are here in this repository.
 
 #Links
 https://learning.ccbp.in/crash-course/coding-submission/144d03ef-3018-4904-abf0-cc8043250060/62a149d5-19a8-43c1-8a9e-5d6fc358be33
